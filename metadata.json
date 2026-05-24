@@ -1,0 +1,6 @@
+{
+  "name": "Shree Trip Planner",
+  "description": "An expert AI travel planner creating detailed, localized, and budget-friendly trip itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
